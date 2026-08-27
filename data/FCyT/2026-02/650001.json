@@ -6,7 +6,7 @@
   "code": 650001,
   "name": "ELECTROMECANICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/650001.pdf",
-  "updated_at": "2026-08-03T18:03:00",
+  "updated_at": "2026-08-20T11:59:00",
   "levels": [
     {
       "code": "A",
@@ -98,7 +98,7 @@
                   "start": "1245",
                   "end": "1415",
                   "duration": 2,
-                  "room": "660",
+                  "room": "623",
                   "teacher": "PATINO TITO RONALD EDGAR",
                   "isClass": true
                 }
@@ -2842,7 +2842,7 @@
                   "start": "1245",
                   "end": "1415",
                   "duration": 2,
-                  "room": "PDTF",
+                  "room": "681B",
                   "teacher": "MALDONADO LOPEZ PASCUAL",
                   "isClass": true
                 },
@@ -2857,10 +2857,10 @@
                 },
                 {
                   "day": "JU",
-                  "start": "1845",
-                  "end": "2015",
+                  "start": "1245",
+                  "end": "1415",
                   "duration": 2,
-                  "room": "692B",
+                  "room": "681B",
                   "teacher": "MALDONADO LOPEZ PASCUAL",
                   "isClass": true
                 },
@@ -2869,7 +2869,7 @@
                   "start": "1245",
                   "end": "1415",
                   "duration": 2,
-                  "room": "PDTF",
+                  "room": "681B",
                   "teacher": "MALDONADO LOPEZ PASCUAL",
                   "isClass": true
                 }
@@ -3264,10 +3264,10 @@
                 },
                 {
                   "day": "JU",
-                  "start": "645",
-                  "end": "815",
+                  "start": "945",
+                  "end": "1115",
                   "duration": 2,
-                  "room": "681B",
+                  "room": "692F",
                   "teacher": "MONTANO ANAYA FRANCISCO",
                   "isClass": true
                 }

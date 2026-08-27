@@ -6,7 +6,7 @@
   "code": 320902,
   "name": "CIVIL (NUEVO)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
-  "updated_at": "2026-08-03T18:02:00",
+  "updated_at": "2026-08-17T16:03:00",
   "levels": [
     {
       "code": "A",
@@ -131,7 +131,7 @@
                   "start": "815",
                   "end": "945",
                   "duration": 2,
-                  "room": "AUDCIV",
+                  "room": "693B",
                   "teacher": "PATINO TITO RONALD EDGAR",
                   "isClass": true
                 },
@@ -398,7 +398,7 @@
                   "start": "645",
                   "end": "815",
                   "duration": 2,
-                  "room": "692F",
+                  "room": "MAGCIV",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
@@ -3970,7 +3970,7 @@
                   "start": "645",
                   "end": "815",
                   "duration": 2,
-                  "room": "MAGCIV",
+                  "room": "692F",
                   "teacher": "CABALLERO FLORES JAVIER",
                   "isClass": true
                 },
@@ -4123,7 +4123,7 @@
                   "start": "815",
                   "end": "945",
                   "duration": 2,
-                  "room": "693A",
+                  "room": "625C",
                   "teacher": "ARMIJO RODRIGUEZ CARLOS ALBERTO",
                   "isClass": true
                 }
@@ -4792,7 +4792,7 @@
                   "end": "1415",
                   "duration": 2,
                   "room": "MAGCIV",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -4801,7 +4801,7 @@
                   "end": "1415",
                   "duration": 2,
                   "room": "MAGCIV",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -4810,11 +4810,11 @@
                   "end": "1415",
                   "duration": 2,
                   "room": "651",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "CABALLERO FLORES JAVIER"
+              "teacher": "POR DESGINAR DOCENTE"
             },
             {
               "code": "2",
@@ -4825,7 +4825,7 @@
                   "end": "2015",
                   "duration": 2,
                   "room": "MAGCIV",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -4834,7 +4834,7 @@
                   "end": "2015",
                   "duration": 2,
                   "room": "MAGCIV",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -4843,11 +4843,11 @@
                   "end": "2015",
                   "duration": 2,
                   "room": "MAGCIV",
-                  "teacher": "CABALLERO FLORES JAVIER",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "CABALLERO FLORES JAVIER"
+              "teacher": "POR DESGINAR DOCENTE"
             }
           ]
         }

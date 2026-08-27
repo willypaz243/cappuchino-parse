@@ -7,7 +7,8 @@
     "code": 409701,
     "name": "ALIMENTOS",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/409701.pdf",
-    "updated_at": "2026-08-03T18:02:00"
+    "updated_at": "2026-08-17T16:03:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -17,7 +18,8 @@
     "code": 399501,
     "name": "BIOLOGIA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/399501.pdf",
-    "updated_at": "2026-08-05T10:58:00"
+    "updated_at": "2026-08-17T16:03:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -27,7 +29,8 @@
     "code": 165221,
     "name": "BIOTECNOLOGIA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/165221.pdf",
-    "updated_at": "2026-08-03T18:02:00"
+    "updated_at": "2026-08-17T16:03:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -37,7 +40,8 @@
     "code": 320902,
     "name": "CIVIL (NUEVO)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/320902.pdf",
-    "updated_at": "2026-08-03T18:02:00"
+    "updated_at": "2026-08-17T16:03:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -47,7 +51,8 @@
     "code": 299701,
     "name": "ELECTRICA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
-    "updated_at": "2026-08-03T18:02:00"
+    "updated_at": "2026-08-20T11:59:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -57,7 +62,8 @@
     "code": 650001,
     "name": "ELECTROMECANICA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/650001.pdf",
-    "updated_at": "2026-08-03T18:03:00"
+    "updated_at": "2026-08-20T11:59:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -67,7 +73,8 @@
     "code": 429701,
     "name": "ELECTRONICA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
-    "updated_at": "2026-08-05T10:58:00"
+    "updated_at": "2026-08-20T11:59:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -77,7 +84,8 @@
     "code": 166231,
     "name": "ENERGIA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/166231.pdf",
-    "updated_at": "2026-08-03T18:03:00"
+    "updated_at": "2026-08-17T16:04:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -87,7 +95,8 @@
     "code": 760101,
     "name": "FISICA (DID)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/760101.pdf",
-    "updated_at": "2026-08-03T18:03:00"
+    "updated_at": "2026-08-03T18:03:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -97,7 +106,8 @@
     "code": 359201,
     "name": "FISICA (LIC)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/359201.pdf",
-    "updated_at": "2026-08-03T18:03:00"
+    "updated_at": "2026-08-17T16:04:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -107,7 +117,8 @@
     "code": 309801,
     "name": "INDUSTRIAL",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
-    "updated_at": "2026-08-03T18:03:00"
+    "updated_at": "2026-08-17T16:05:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -117,7 +128,8 @@
     "code": 134111,
     "name": "INFORMATICA (ING)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
-    "updated_at": "2026-08-05T12:51:00"
+    "updated_at": "2026-08-17T16:05:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -127,7 +139,8 @@
     "code": 114071,
     "name": "MATEMATICA (DID)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/114071.pdf",
-    "updated_at": "2026-08-03T18:04:00"
+    "updated_at": "2026-08-03T18:04:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -137,7 +150,8 @@
     "code": 439801,
     "name": "MATEMATICA (ING)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/439801.pdf",
-    "updated_at": "2026-08-03T18:04:00"
+    "updated_at": "2026-08-20T12:00:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -147,7 +161,8 @@
     "code": 349701,
     "name": "MATEMATICA (LIC)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/349701.pdf",
-    "updated_at": "2026-08-03T18:04:00"
+    "updated_at": "2026-08-20T12:00:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -157,7 +172,8 @@
     "code": 319801,
     "name": "MECANICA",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/319801.pdf",
-    "updated_at": "2026-08-03T18:04:00"
+    "updated_at": "2026-08-20T12:00:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -167,7 +183,8 @@
     "code": 339701,
     "name": "QUIMICA (ING)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/339701.pdf",
-    "updated_at": "2026-08-03T18:05:00"
+    "updated_at": "2026-08-17T16:06:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -177,7 +194,8 @@
     "code": 389701,
     "name": "QUIMICA (LIC)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/389701.pdf",
-    "updated_at": "2026-08-03T18:05:00"
+    "updated_at": "2026-08-17T16:06:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -187,7 +205,8 @@
     "code": 419701,
     "name": "SISTEMAS",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/419701.pdf",
-    "updated_at": "2026-08-05T10:59:00"
+    "updated_at": "2026-08-05T10:59:00",
+    "levels": []
   },
   {
     "made_in": "SCESI - UMSS",
@@ -197,6 +216,7 @@
     "code": 411702,
     "name": "SISTEMAS (NUEVO)",
     "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
-    "updated_at": "2026-08-05T12:52:00"
+    "updated_at": "2026-08-20T12:00:00",
+    "levels": []
   }
 ]

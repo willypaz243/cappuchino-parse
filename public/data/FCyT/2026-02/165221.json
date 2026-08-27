@@ -6,7 +6,7 @@
   "code": 165221,
   "name": "BIOTECNOLOGIA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/165221.pdf",
-  "updated_at": "2026-08-03T18:02:00",
+  "updated_at": "2026-08-17T16:03:00",
   "levels": [
     {
       "code": "A",
@@ -180,11 +180,11 @@
                   "end": "1200",
                   "duration": 3,
                   "room": "690A",
-                  "teacher": "ROJAS CESPEDES JENNY",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "ROJAS CESPEDES JENNY"
+              "teacher": "POR DESGINAR DOCENTE"
             }
           ]
         },

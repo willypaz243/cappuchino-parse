@@ -6,7 +6,7 @@
   "code": 299701,
   "name": "ELECTRICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/299701.pdf",
-  "updated_at": "2026-08-03T18:02:00",
+  "updated_at": "2026-08-20T11:59:00",
   "levels": [
     {
       "code": "A",
@@ -3770,8 +3770,8 @@
               "schedule": [
                 {
                   "day": "MI",
-                  "start": "2015",
-                  "end": "2145",
+                  "start": "1845",
+                  "end": "2015",
                   "duration": 2,
                   "room": "670",
                   "teacher": "ROMAN ARISPE MANUEL FDO.",
@@ -3779,8 +3779,8 @@
                 },
                 {
                   "day": "JU",
-                  "start": "1930",
-                  "end": "2145",
+                  "start": "1845",
+                  "end": "2100",
                   "duration": 3,
                   "room": "670",
                   "teacher": "ROMAN ARISPE MANUEL FDO.",

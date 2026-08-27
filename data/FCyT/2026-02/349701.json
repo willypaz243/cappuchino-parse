@@ -6,7 +6,7 @@
   "code": 349701,
   "name": "MATEMATICA (LIC)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/349701.pdf",
-  "updated_at": "2026-08-03T18:04:00",
+  "updated_at": "2026-08-20T12:00:00",
   "levels": [
     {
       "code": "A",
@@ -209,10 +209,10 @@
               "schedule": [
                 {
                   "day": "VI",
-                  "start": "645",
-                  "end": "815",
+                  "start": "1845",
+                  "end": "2015",
                   "duration": 2,
-                  "room": "625C",
+                  "room": "690D",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
@@ -221,7 +221,7 @@
                   "start": "645",
                   "end": "815",
                   "duration": 2,
-                  "room": "625C",
+                  "room": "690D",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
@@ -351,25 +351,25 @@
               "code": "1",
               "schedule": [
                 {
-                  "day": "MA",
-                  "start": "945",
-                  "end": "1115",
+                  "day": "LU",
+                  "start": "2015",
+                  "end": "2145",
                   "duration": 2,
-                  "room": "690B",
-                  "teacher": "CLAURE RICHARD PATRICIA ANGELICA",
+                  "room": "AUDELEK",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
-                  "day": "VI",
-                  "start": "815",
-                  "end": "945",
+                  "day": "MA",
+                  "start": "1845",
+                  "end": "2015",
                   "duration": 2,
-                  "room": "690D",
-                  "teacher": "CLAURE RICHARD PATRICIA ANGELICA",
+                  "room": "AUDELEK",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "CLAURE RICHARD PATRICIA ANGELICA"
+              "teacher": "POR DESGINAR DOCENTE"
             }
           ]
         },

@@ -6,7 +6,7 @@
   "code": 309801,
   "name": "INDUSTRIAL",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/309801.pdf",
-  "updated_at": "2026-08-03T18:03:00",
+  "updated_at": "2026-08-17T16:05:00",
   "levels": [
     {
       "code": "A",
@@ -2372,28 +2372,28 @@
               "schedule": [
                 {
                   "day": "LU",
-                  "start": "2015",
-                  "end": "2145",
+                  "start": "1845",
+                  "end": "2015",
                   "duration": 2,
-                  "room": "622",
+                  "room": "692C",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
-                  "day": "MA",
-                  "start": "2015",
-                  "end": "2145",
+                  "day": "JU",
+                  "start": "1715",
+                  "end": "1845",
                   "duration": 2,
-                  "room": "691E",
+                  "room": "651",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
-                  "day": "MI",
-                  "start": "2015",
-                  "end": "2145",
+                  "day": "VI",
+                  "start": "1245",
+                  "end": "1415",
                   "duration": 2,
-                  "room": "691E",
+                  "room": "693C",
                   "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
@@ -2821,7 +2821,7 @@
                   "start": "1415",
                   "end": "1545",
                   "duration": 2,
-                  "room": "652",
+                  "room": "691B",
                   "teacher": "GUTIERREZ ANDRADE OSVALDO WALTER",
                   "isClass": true
                 }
@@ -2952,7 +2952,7 @@
                   "start": "2015",
                   "end": "2145",
                   "duration": 2,
-                  "room": "612",
+                  "room": "617",
                   "teacher": "LIMA VACAFLOR TITO ANIBAL",
                   "isClass": true
                 },

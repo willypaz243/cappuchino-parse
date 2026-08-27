@@ -6,7 +6,7 @@
   "code": 166231,
   "name": "ENERGIA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/166231.pdf",
-  "updated_at": "2026-08-03T18:03:00",
+  "updated_at": "2026-08-17T16:04:00",
   "levels": [
     {
       "code": "A",
@@ -98,7 +98,7 @@
                   "start": "1245",
                   "end": "1415",
                   "duration": 2,
-                  "room": "660",
+                  "room": "623",
                   "teacher": "PATINO TITO RONALD EDGAR",
                   "isClass": true
                 }

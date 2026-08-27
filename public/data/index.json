@@ -2,7 +2,7 @@
     "default": "FCyT",
     "FCyT": {
         "config": {
-            "tittleGestion": "2/2026",
+            "tittleGestion": "1/2026",
             "news": "/data/FCyT/news.json",
             "load": "/data/FCyT/index.json",
             "path": "/data/FCyT",

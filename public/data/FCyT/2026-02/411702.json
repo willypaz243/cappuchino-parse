@@ -6,7 +6,7 @@
   "code": 411702,
   "name": "SISTEMAS (NUEVO)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/411702.pdf",
-  "updated_at": "2026-08-05T12:52:00",
+  "updated_at": "2026-08-20T12:00:00",
   "levels": [
     {
       "code": "A",
@@ -1331,7 +1331,7 @@
                   "start": "1245",
                   "end": "1415",
                   "duration": 2,
-                  "room": "690C",
+                  "room": "692A",
                   "teacher": "AUXILIAR POR DESIGNAR",
                   "isClass": false
                 }
@@ -2873,7 +2873,7 @@
                   "start": "815",
                   "end": "945",
                   "duration": 2,
-                  "room": "INFLAB",
+                  "room": "693A",
                   "teacher": "ORELLANA ARAOZ JORGE WALTER",
                   "isClass": true
                 },
@@ -3058,11 +3058,11 @@
               "schedule": [
                 {
                   "day": "MA",
-                  "start": "945",
-                  "end": "1115",
+                  "start": "1545",
+                  "end": "1715",
                   "duration": 2,
-                  "room": "691B",
-                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "room": "690E",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -3071,11 +3071,11 @@
                   "end": "815",
                   "duration": 2,
                   "room": "661",
-                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "PEETERS ILONAA MAGDA LENA"
+              "teacher": "POR DESGINAR DOCENTE"
             },
             {
               "code": "2",
@@ -3513,10 +3513,10 @@
                 },
                 {
                   "day": "MI",
-                  "start": "945",
-                  "end": "1115",
+                  "start": "815",
+                  "end": "945",
                   "duration": 2,
-                  "room": "INFLAB",
+                  "room": "692B",
                   "teacher": "TORRICO BASCOPE ROSEMARY",
                   "isClass": true
                 },
@@ -4485,7 +4485,7 @@
                   "start": "2015",
                   "end": "2145",
                   "duration": 2,
-                  "room": "612",
+                  "room": "617",
                   "teacher": "LIMA VACAFLOR TITO ANIBAL",
                   "isClass": true
                 },

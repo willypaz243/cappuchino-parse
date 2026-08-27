@@ -6,7 +6,7 @@
   "code": 134111,
   "name": "INFORMATICA (ING)",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/134111.pdf",
-  "updated_at": "2026-08-05T12:51:00",
+  "updated_at": "2026-08-17T16:05:00",
   "levels": [
     {
       "code": "A",
@@ -1087,11 +1087,11 @@
               "schedule": [
                 {
                   "day": "MA",
-                  "start": "945",
-                  "end": "1115",
+                  "start": "1545",
+                  "end": "1715",
                   "duration": 2,
-                  "room": "691B",
-                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "room": "690E",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 },
                 {
@@ -1100,11 +1100,11 @@
                   "end": "815",
                   "duration": 2,
                   "room": "661",
-                  "teacher": "PEETERS ILONAA MAGDA LENA",
+                  "teacher": "POR DESGINAR DOCENTE",
                   "isClass": true
                 }
               ],
-              "teacher": "PEETERS ILONAA MAGDA LENA"
+              "teacher": "POR DESGINAR DOCENTE"
             },
             {
               "code": "2",
@@ -2026,7 +2026,7 @@
                   "start": "815",
                   "end": "945",
                   "duration": 2,
-                  "room": "INFLAB",
+                  "room": "693A",
                   "teacher": "ORELLANA ARAOZ JORGE WALTER",
                   "isClass": true
                 },
@@ -2253,10 +2253,10 @@
                 },
                 {
                   "day": "MI",
-                  "start": "945",
-                  "end": "1115",
+                  "start": "815",
+                  "end": "945",
                   "duration": 2,
-                  "room": "INFLAB",
+                  "room": "692B",
                   "teacher": "TORRICO BASCOPE ROSEMARY",
                   "isClass": true
                 },
@@ -2932,6 +2932,186 @@
       "code": "I",
       "subjects": [
         {
+          "code": 2010218,
+          "name": "CIENCIA DE DATOS Y MACHINE LEARNING",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1115",
+                  "end": "1245",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "692D",
+                  "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "RODRIGUEZ BILBAO ERIKA PATRICIA"
+            }
+          ]
+        },
+        {
+          "code": 2010032,
+          "name": "DATA WAREHOUSE",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "ESCALERA FERNANDEZ DAVID",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "645",
+                  "end": "815",
+                  "duration": 2,
+                  "room": "691F",
+                  "teacher": "ESCALERA FERNANDEZ DAVID",
+                  "isClass": true
+                }
+              ],
+              "teacher": "ESCALERA FERNANDEZ DAVID"
+            }
+          ]
+        },
+        {
+          "code": 2010044,
+          "name": "DISE\u00d1O DE COMPILADORES",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "1415",
+                  "end": "1545",
+                  "duration": 2,
+                  "room": "607",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692C",
+                  "teacher": "COSTAS JAUREGUI VLADIMIR ABEL",
+                  "isClass": true
+                }
+              ],
+              "teacher": "COSTAS JAUREGUI VLADIMIR ABEL"
+            }
+          ]
+        },
+        {
+          "code": 2010178,
+          "name": "ENTORNOS VIRTUALES DE APRENDIZAJE",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "692E",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691B",
+                  "teacher": "CUSSI NICOLAS GROVER HUMBERTO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "CUSSI NICOLAS GROVER HUMBERTO"
+            }
+          ]
+        },
+        {
+          "code": 2010176,
+          "name": "PROGRAMACION DE SISTEMAS PARALELOS",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "693B",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "isClass": true
+                },
+                {
+                  "day": "MA",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "isClass": true
+                }
+              ],
+              "teacher": "MONTOYA BURGOS YONY RICHARD"
+            }
+          ]
+        },
+        {
+          "code": 2010189,
+          "name": "RECONOCIMIENTO DE VOZ",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692F",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "945",
+                  "end": "1115",
+                  "duration": 2,
+                  "room": "692G",
+                  "teacher": "GARCIA PEREZ CARMEN ROSA",
+                  "isClass": true
+                }
+              ],
+              "teacher": "GARCIA PEREZ CARMEN ROSA"
+            }
+          ]
+        },
+        {
           "code": 2010209,
           "name": "SEGURIDAD DE SISTEMAS",
           "groups": [
@@ -2958,6 +3138,36 @@
                 }
               ],
               "teacher": "ANTEZANA CAMACHO MARCELO"
+            }
+          ]
+        },
+        {
+          "code": 2010188,
+          "name": "SERVICIOS TELEMATICOS",
+          "groups": [
+            {
+              "code": "1",
+              "schedule": [
+                {
+                  "day": "MA",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691C",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "isClass": true
+                },
+                {
+                  "day": "VI",
+                  "start": "2015",
+                  "end": "2145",
+                  "duration": 2,
+                  "room": "691E",
+                  "teacher": "FIORILO LOZADA AMERICO",
+                  "isClass": true
+                }
+              ],
+              "teacher": "FIORILO LOZADA AMERICO"
             }
           ]
         },

@@ -6,7 +6,7 @@
   "code": 429701,
   "name": "ELECTRONICA",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/429701.pdf",
-  "updated_at": "2026-08-05T10:58:00",
+  "updated_at": "2026-08-20T11:59:00",
   "levels": [
     {
       "code": "A",
@@ -2123,6 +2123,39 @@
                 }
               ],
               "teacher": "MANZUR SORIA CARLOS B."
+            },
+            {
+              "code": "5",
+              "schedule": [
+                {
+                  "day": "LU",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "690E",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "isClass": true
+                },
+                {
+                  "day": "MI",
+                  "start": "1245",
+                  "end": "1415",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "isClass": true
+                },
+                {
+                  "day": "JU",
+                  "start": "1845",
+                  "end": "2015",
+                  "duration": 2,
+                  "room": "INFLAB",
+                  "teacher": "MONTOYA BURGOS YONY RICHARD",
+                  "isClass": true
+                }
+              ],
+              "teacher": "MONTOYA BURGOS YONY RICHARD"
             }
           ]
         },
@@ -2699,7 +2732,7 @@
               "code": "2",
               "schedule": [
                 {
-                  "day": "MI",
+                  "day": "JU",
                   "start": "1845",
                   "end": "2015",
                   "duration": 2,
@@ -2708,7 +2741,7 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
+                  "day": "VI",
                   "start": "1845",
                   "end": "2015",
                   "duration": 2,
@@ -3546,7 +3579,7 @@
                   "start": "815",
                   "end": "945",
                   "duration": 2,
-                  "room": "INFLAB",
+                  "room": "693A",
                   "teacher": "ORELLANA ARAOZ JORGE WALTER",
                   "isClass": true
                 },

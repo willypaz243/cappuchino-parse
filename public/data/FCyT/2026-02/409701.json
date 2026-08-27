@@ -6,7 +6,7 @@
   "code": 409701,
   "name": "ALIMENTOS",
   "url": "http://sagaa.fcyt.umss.edu.bo/pre_academico/horarios/409701.pdf",
-  "updated_at": "2026-08-03T18:02:00",
+  "updated_at": "2026-08-17T16:03:00",
   "levels": [
     {
       "code": "A",
@@ -3066,7 +3066,7 @@
                   "start": "2015",
                   "end": "2145",
                   "duration": 2,
-                  "room": "612",
+                  "room": "617",
                   "teacher": "LIMA VACAFLOR TITO ANIBAL",
                   "isClass": true
                 },
@@ -3751,11 +3751,11 @@
                   "isClass": true
                 },
                 {
-                  "day": "JU",
-                  "start": "645",
-                  "end": "815",
+                  "day": "MA",
+                  "start": "1115",
+                  "end": "1245",
                   "duration": 2,
-                  "room": "613",
+                  "room": "615",
                   "teacher": "FERRUFINO GUARDIA ERICK VLADIMIR",
                   "isClass": true
                 },
@@ -3785,7 +3785,7 @@
                   "start": "945",
                   "end": "1115",
                   "duration": 2,
-                  "room": "682L1",
+                  "room": "683J",
                   "teacher": "ESPINOZA ALCOCER JENNY",
                   "isClass": true
                 },
