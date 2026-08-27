@@ -7,3 +7,7 @@ node_modules
 .firebase
 .firebaserc
 firebase.json
+
+# repo propio (cappuchino-plus tiene su propio git)
+cappuchino-plus/
+.plan/
